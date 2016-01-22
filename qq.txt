@@ -6,3 +6,5 @@ hello Samuel
 hello eversky
 
 修改这个文件，试试要不要add
+
+学习命令来 装逼
